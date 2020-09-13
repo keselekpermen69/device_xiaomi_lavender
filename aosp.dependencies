@@ -10,10 +10,9 @@
     "branch": "ten"
   },
   {
-    "repository": "vendor_xiaomi_lavender",
+    "repository": "lavender-evergarden/vendor_xiaomi_lavender",
     "target_path": "vendor/xiaomi/lavender",
-    "branch": "ten",
-    "remote": "pixel-devices-blobs"
+    "branch": "eleven"
   },
   {
     "repository": "packages_apps_PixelLiveWallpaper",
